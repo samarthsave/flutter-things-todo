@@ -1,6 +1,6 @@
 # Flutter Things Todo
 
-An example Todo App using Flutter with advanced features. :star2:  
+<!-- An example Todo App using Flutter with advanced features. :star2:  
 Built using Redux architecture and Redux Persist to store redux state.
 
 ## UI/UX Concept by Md. Faisal Hossain
@@ -8,7 +8,7 @@ Thanks to Md. Faisal Hossain for allowing me to use the ThingsTodo concept.
 Visit his profile for more awesome works!
 
 Uplabs Profile : [Md. Faisal Hossain](https://www.uplabs.com/mdfhossain)  
-Things Todo Concept : [Things Todo App](https://www.uplabs.com/posts/freebie-daily-ui-things-todo-app)
+Things Todo Concept : [Things Todo App](https://www.uplabs.com/posts/freebie-daily-ui-things-todo-app) -->
 
 ## Features
 #### Basic
@@ -29,7 +29,7 @@ Things Todo Concept : [Things Todo App](https://www.uplabs.com/posts/freebie-dai
 - [ ] Authentication
 - [ ] Settings page
 
-## Application Architecture
+<!-- ## Application Architecture
 The architecture is based off these projects:
 
 - [Redux Sample](https://github.com/brianegan/flutter_architecture_samples/tree/master/example/redux) - [Brian Egan](https://twitter.com/brianegan)
@@ -95,4 +95,4 @@ Run `flutter packages pub run build_runner build` to regenerate file when you ma
 - `flutter_sticky_header` and `flutter_calendar_carousel` for awesome components.
 - more at `pubspec.yaml`
 
-### Star the repo :star: to support the project or follow me. Thanks! :heart:
+### Star the repo :star: to support the project or follow me. Thanks! :heart: -->
